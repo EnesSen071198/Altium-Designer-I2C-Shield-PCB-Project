@@ -118,12 +118,12 @@ GenerateClassCluster=0
 DocumentUniqueId=TIRUNEQG
 
 [Parameter1]
-Name=DrawingBy
-Value=Enes Şen
-
-[Parameter2]
 Name=ProjectTitle
 Value=I2C Shield
+
+[Parameter2]
+Name=DrawingBy
+Value=Enes Şen
 
 [Configuration1]
 Name=Sources
