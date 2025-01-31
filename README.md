@@ -7,5 +7,10 @@ I2C Shield Projesi Oluşturuldu
 -Kapaitör Şematik Tasarımı Tamamlandı.
 -Diyot Şematik Tasarımı Tamamlandı.
 -Led Şematik Tasarımı Tamamlandı.
+-Transistör Şematik Tasarımı Tamamlandı.
+-Button Şematik Tasarımı Tamamlandı.
+-Header Şematik Tasarımı Tamamlandı.
 
----Son güncelleme : 30.01.2025/19.32
+->Şematik çizime başlanacak...
+
+---Son güncelleme : 31.01.2025 - 19.38
