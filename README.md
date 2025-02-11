@@ -11,6 +11,6 @@ I2C Shield Projesi Oluşturuldu
 -Button Şematik Tasarımı Tamamlandı.
 -Header Şematik Tasarımı Tamamlandı.
 
-->Şematik çizime başlanacak...
+->Şematik çizime başlandı.
 
----Son güncelleme : 31.01.2025 - 19.38
+---Son güncelleme : 11.02.2025 - 19.38
